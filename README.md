@@ -125,3 +125,7 @@ Puedes abrir y **ver con formato** tus archivos `.md` de varias formas:
 
 📌 **Nota didáctica**:
 Con esta práctica trabajamos la **sintaxis básica de Markdown**, reflexionamos sobre los **conceptos introductorios de sostenibilidad (RA1)**, y además fomentamos el uso de **herramientas digitales ligeras y sostenibles** en lugar de editores pesados.
+---
+# Trabajo elaborado por el alumno 
+[Trabajo realizado por el alumno](/sostenibilidad.md)
+[Trabajo realizado por el alumno en pdf](/StackEdit.pdf)
